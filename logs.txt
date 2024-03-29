@@ -1,0 +1,247 @@
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:23:57 2024 +0100
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:23:57 2024 +0100
+
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:23:57 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:23:57 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:23:57 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 849e60259202b93f48d1b65775d2261d84dea212
+:...skipping...                                                                                   
+commit dd9ab7e7d573dd1353d1f138ffcbcccb3a22a87c (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:27:28 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d259af6c747a2048518a1c42b3f93673310656a9
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:24:45 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 8d76625567f79673016dacf02f9de54eded3f800 (origin/bug1, bug1)
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:25:56 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit b8c5c8daef6773fbbf823b3b201c01191a479b31
+Author: unknown <novachki2003@gmail.com>
+Date:   Fri Mar 29 22:23:57 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 849e60259202b93f48d1b65775d2261d84dea212
+Author: unknown <novachki2003@gmail.com>

@@ -1,0 +1,83 @@
+4. git init - Иницијализација на локален репозиториум
+
+5. git remote add origin https://github.com/stefan-novachki/SI_2024_lab1_225086.git - Поврзување со remote репозиториум
+   git remote
+   git remote -v
+
+6. touch README.md - Креирање README.md фајл
+   code README.md
+   git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+   git commit -m "Initial commit" - Правиме commit на досегашните измени со порака
+
+7. git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+   git commit -m "Add starter code" - Правиме commit на досегашните измени со порака
+
+8. git status
+   git branch
+   git push origin master - Ја синхронизираме гранката master со remote репозиториумот
+
+9. git branch bug1 - Правиме нови гранки bug1 и bug2
+   git branch bug2
+   git status
+   git branch
+
+
+10. git checkout bug1 - Се префрламе на гранка bug1
+
+
+11. git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+    git commit -m "Fix wrong condition in filterOddLengthStrings" - Правиме commit на досегашните измени со порака
+
+
+12. git checkout bug2 - Се префрламе на гранка bug2 
+
+13. git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+    git commit -m "Fix wrong condition in makeBigStringFrom" - Правиме commit на досегашните измени со порака
+
+14  git checkout bug1 - Се префрламе на гранка bug1
+
+
+15. git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+    git commit -m "Call method filterOddLengthStrings in main class" - Правиме commit на досегашните измени со порака
+
+16. git checkout bug2 - Се префрламе на гранка bug2 
+
+
+17. git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+    git commit -m "Call method makeBigStringFrom in main class" - Правиме commit на досегашните измени со порака
+
+18. git push origin master - Ги синхронизираме сите гранки со remote репозиториумот
+    git push origin bug1
+    git push origin bug2
+
+19. git checkout master - Се префрламе на гранка master 
+
+20. git merge bug1 - Ја спојуваме гранката bug1 кон master
+
+21. git push origin master - Ги синхронизираме сите гранки со remote репозиториумот
+    git push origin bug1
+    git push origin bug2
+
+
+22. git checkout bug2 - Се префрламе на гранка bug2 
+
+23. git rebase master - Правиме rebase на master, односно ги префрламе досегашните commits во нов commit
+    git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+    git rebase --continue
+
+24. git checkout master - Се префрламе на гранка master
+
+25. git merge bug2 - Ја спојуваме гранката bug2 кон master
+
+26. git push origin master - Ги синхронизираме сите гранки со remote репозиториумот
+    git push origin bug1
+    git push origin bug2
+
+27. git push origin bug2 --force - Ја синхронизираме bug2 со --force
+
+28. git add . - Ставање на досегашните измени, фајлови и датотеки во staging area
+    git commit -m "Final commit" - Правиме commit на досегашните измени со порака
+
+29. git push origin master - Ги синхронизираме сите гранки со remote репозиториумот
+    git push origin bug1
+    git push origin bug2
